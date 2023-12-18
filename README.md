@@ -1,6 +1,6 @@
 To-Do List
 
-![Alt Text](Screenshot_1)
+![To Do List Screenshot](Screenshot_1.png)
 
 
 A simple To-Do List is a simple web application that allows you to manage your tasks in an organized way. You can add tasks, mark them as completed, and remove them from your to-do list.
@@ -53,9 +53,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-**Note:** This README is a basic template. Please update it with more detailed information about your project, such as additional features, dependencies, and screenshots if applicable.
-```
-
-Make sure to replace placeholders like `your-username` and add any specific details about the project that you find relevant. You can also include screenshots or GIFs to make the README more visually appealing.
